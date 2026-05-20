@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line 1: Git workflow practice on master
+=======
+Branching and merge conflict
+>>>>>>> feature-practice
