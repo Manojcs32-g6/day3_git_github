@@ -51,3 +51,10 @@ A simple collaborative workflow followed in this project:
 3. Merge the branch back into the main branch.
 4. Resolve conflicts when the same file is changed in multiple branches.
 5. Push the final code to GitHub.
+
+# Screenshots of the work
+## Screenshots
+
+![Init status](screenshots/01_init_status.png)
+![First commit](screenshots/02_first_commit.png)
+![Log check](screenshots/03_log_check.png)
