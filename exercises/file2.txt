@@ -1,1 +1,1 @@
-This file is for branching and merge conflict practice.
+Branching and merge conflict
