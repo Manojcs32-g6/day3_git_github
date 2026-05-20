@@ -1,1 +1,1 @@
-This file is for branching and merge conflict practice.
+Line 1: Git workflow practice on master
