@@ -54,7 +54,24 @@ A simple collaborative workflow followed in this project:
 
 # Screenshots of the work
 ## Screenshots
-
+## git init
 ![Init status](screenshots/01_init_status.png)
+## git commit
 ![First commit](screenshots/02_first_commit.png)
+## git log
 ![Log check](screenshots/03_log_check.png)
+## git branch
+![Created Branch](screenshots/04_branch_created.png)
+## git Branch commit 
+![Branch commit](screenshots/05_Branch_work.png)
+## git conflict maker
+![conflict maker](screenshots/05_conflict_maker.png)
+##  git solved conflict maker
+![solved conflict maker](screenshots/06_solved_conflict_maker.png)
+## git adding files and commited
+![adding files](screenshots/07_adding_files.png)
+## git push 
+![pushed files to github](screenshots/08_Git_push.png)
+## git status
+![git status](screenshots/09_status.png)
+
